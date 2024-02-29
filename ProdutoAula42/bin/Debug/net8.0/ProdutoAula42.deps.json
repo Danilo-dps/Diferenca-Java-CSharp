@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProdutoAula42/1.0.0": {
+        "runtime": {
+          "ProdutoAula42.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProdutoAula42/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

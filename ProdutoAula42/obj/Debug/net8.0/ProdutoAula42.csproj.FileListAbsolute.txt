@@ -1,0 +1,15 @@
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\bin\Debug\net8.0\ProdutoAula42.exe
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\bin\Debug\net8.0\ProdutoAula42.deps.json
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\bin\Debug\net8.0\ProdutoAula42.runtimeconfig.json
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\bin\Debug\net8.0\ProdutoAula42.dll
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\bin\Debug\net8.0\ProdutoAula42.pdb
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\ProdutoAula42.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\ProdutoAula42.AssemblyInfoInputs.cache
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\ProdutoAula42.AssemblyInfo.cs
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\ProdutoAula42.csproj.CoreCompileInputs.cache
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\ProdutoAula42.sourcelink.json
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\ProdutoAula42.dll
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\refint\ProdutoAula42.dll
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\ProdutoAula42.pdb
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\ProdutoAula42.genruntimeconfig.cache
+C:\temp\Diferenca-Java-CSharp\ProdutoAula42\obj\Debug\net8.0\ref\ProdutoAula42.dll
